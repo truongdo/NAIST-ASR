@@ -1,0 +1,5 @@
+# cat tst2013/lats_4-gram_decoded/scoring_kaldi/penalty_1.0/16.txt | sed "s/ 'S /'S /g" | compute-wer --text --mode=present ark:tst2013/lats_4-gram_decoded/scoring_kaldi/test_filt.txt ark,p:- >& tst2013/lats_4-gram_decoded/wer_16_1.0 
+# Started at Mon Nov 16 14:31:55 JST 2015
+sleep for 150#
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Nov 16 14:31:55 JST 2015, elapsed time 0 seconds

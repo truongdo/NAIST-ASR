@@ -1,0 +1,4 @@
+compute-wer --text --mode=present ark:tst2013/lats_4-gram_decoded/scoring_kaldi/test_filt.txt ark,p:- 
+%WER 12.13 [ 5056 / 41695, 515 ins, 1509 del, 3032 sub ]
+%SER 66.03 [ 1483 / 2246 ]
+Scored 2246 sentences, 0 not present in hyp.
