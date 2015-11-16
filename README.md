@@ -35,7 +35,7 @@ __Directory structure__:
 2. [Europal v6.](http://www.statmt.org/europarl/v6/)
 3. [Giga.](https://catalog.ldc.upenn.edu/LDC2003T05)
 4. News Commentary 08.
-5. TED.
+5. [TED.](https://github.com/truongdq/NAIST-ASR/blob/master/data/TED.txt)
 
 
 ## Citation ##
