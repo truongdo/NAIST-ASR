@@ -25,6 +25,19 @@ __Directory structure__:
 ./local/score.sh --cmd "run.pl" tst2013/reference tst2013/lats_4-gram_decoded
 ```
 
+## Rescoring script ##
+1. N-gram rescoring: steps/lmrescore.sh
+2. RNNLM rescoring: steps/rnnlmrescore.sh
+
+
+## LM training data ##
+1. WSJ.
+2. [Europal v6.](http://www.statmt.org/europarl/v6/)
+3. [Giga.](https://catalog.ldc.upenn.edu/LDC2003T05)
+4. News Commentary 08.
+5. TED.
+
+
 ## Citation ##
 If you use this data for your research, please cite the following paper:
 ```
