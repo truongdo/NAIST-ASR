@@ -51,11 +51,11 @@ Another tool to [convert Kaldi lattice to HTK SLF format](https://gist.github.co
 
 
 ## LM training data ##
-1. WSJ.
-2. [Europal v6.](http://www.statmt.org/europarl/v6/)
-3. [Giga.](https://catalog.ldc.upenn.edu/LDC2003T05)
-4. News Commentary 08.
-5. [TED.](https://github.com/truongdq/NAIST-ASR/blob/master/data/TED.txt)
+1. [TED.](https://github.com/truongdq/NAIST-ASR/blob/master/data/TED.txt)
+2. WSJ.
+3. [Europal v6.](http://www.statmt.org/europarl/v6/)
+4. [Giga.](https://catalog.ldc.upenn.edu/LDC2003T05)
+5. [News Commentary 08.](http://www.statmt.org/wmt12/translation-task.html )
 
 
 ## Citation ##
