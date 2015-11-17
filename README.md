@@ -63,7 +63,7 @@ If you use this data for your research, please cite the following paper:
 ```
 @inproceedings{heck2015iwslt,
   title={The {NAIST} English Speech Recognition System for {IWSLT} 2015},
-  author={Heck, M. and Truong, D.Q. and Sakti, S. and Neubig, G. and Nakamura, S.},
+  author={Heck, Michael and Truong, Do Quoc and Sakti, Sakriani and Neubig, Graham and Nakamura, Satoshi},
   booktitle={Proceedings of IWSLT},
   year={2015}
 }
